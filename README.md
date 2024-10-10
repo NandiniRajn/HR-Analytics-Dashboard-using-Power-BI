@@ -33,5 +33,5 @@ This HR analytics Power BI project provides insights into an organisation's attr
 7. **Highest Income Job Role:**  The top highest income job roles are Manager income of 17k, Second Research and Director's salary of 16k and third Health care representative 7k salary. 
 
 
-![HR Analytics dashboard]( https://github.com/NandiniRajn/HR-Analytics-Dashboard-using-Power-BI/blob/main/HR%20Dashboard1.pdf)
+[HR Analytics dashboard]( https://github.com/NandiniRajn/HR-Analytics-Dashboard-using-Power-BI/blob/main/HR%20Dashboard1.pdf)
 
